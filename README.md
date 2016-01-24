@@ -2,6 +2,8 @@
 
 ![VIM截图](http://7xpnrs.com1.z0.glb.clouddn.com/zey-githubvim.png)
 
+![vim配置预览](http://7xpnrs.com1.z0.glb.clouddn.com/zey-github1.png)
+
 ### 软件配置
 我的操作系统：```OS X EI Captian 10.11.2```
 
